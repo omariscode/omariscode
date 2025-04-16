@@ -43,7 +43,7 @@
 <table>
   <tr style="border: none;">
     <td style="border: none;">
-          [ <img src="https://github-readme-stats.vercel.app/api?username=omarscode&show_icons=true&title_color=C00102&icon_color=C00102" />](https://github-readme-stats.vercel.app/api?username=omariscode&show_icons=true&theme=tokyonight)
+          <img src="https://github-readme-stats.vercel.app/api?username=omariscode&show_icons=true&theme=tokyonight">
     </td>
     <td style="border: none;">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&hide_progress=true)" />
