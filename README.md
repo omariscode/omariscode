@@ -1,53 +1,66 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omariscode.omariscode" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omariscode.omariscode" alt="visitor badge" />
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Rodrigues!;" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Omar+Rodrigues;Backend+Developer+from+Angola;Passionate+about+clean+code+%26+APIs!" alt="Typing SVG" />
 </h1>
 
-<h3>A passionate backend developer from Angola</h3>
+---
 
-<br/>
+## 🧠 About Me
 
-<div>
- 
-  - 👯 I’m looking to collaborate with projetc
+- 🎓 17 y/o | High school IT student & self-taught backend dev  
+- 🧑‍💻 I work mainly with Python (Flask, Django) and Go  
+- ⚙️ I'm building APIs, automations, and backend systems  
+- 🌍 From 🇦🇴 Angola, dreaming big and working hard  
+- 🤝 Open to collaborate on any interesting project  
+- 🗣️ Ask me about: Python, JavaScript, backend dev, or general programming
 
-  - 📝 I'm open to work with anyone
- 
-  - 💬 Ask me about javascript, python, and any general programming question.
+---
 
- </div>
- 
-<div> 
-  <a href="omarscode007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+## 🔗 Connect with Me
+
+<div align="left">
+  <a href="mailto:omarscode007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/omar-rodrigues-48a2212b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,flask" />
-    <img src="https://skillicons.dev/icons?i=go,django,htmx,git,github,mysql,sqlite" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,linux,php" /><br>
+  <img src="https://skillicons.dev/icons?i=python,flask,django,go,htmx,javascript,cpp,php,html,css,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,vscode,postman" />
 </div>
 
+---
 
-<h2>⚡ Stats ⚡</h2>
+## 📊 GitHub Stats
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-          <img src="https://github-readme-stats.vercel.app/api?username=omariscode&show_icons=true&theme=tokyonight">
-    </td>
-    <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&hide_progress=true)" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omariscode&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
+
+---
+
+## 🚀 Current Goals
+
+- 💼 Land my first freelance or remote backend role  
+- 📚 Master FastAPI and advanced Python tools  
+- 🛡️ Learn about backend security and architecture  
+- 🧪 Improve testing with Pytest & Postman  
+- 🌐 Build real-world APIs and dashboards
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omariscode&theme=tokyonight&margin-w=10&row=1&column=6" />
+</p>
