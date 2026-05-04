@@ -26,7 +26,7 @@ class OmarRodrigues:
     
     stack = {
         "primary":   ["Python", "Flask", "Django", "FastAPI", "Typescript", "Express.js", "Nest.js", "Java", "Spring Boot", "Go"],
-        "frontend":  ["HTMX", "Tailwind", "JavaScript", "Next.js"],
+        "frontend":  ["HTML", "HTMX", "Tailwind", "JavaScript", "Next.js"],
         "databases": ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis"],
         "tools":     ["Git", "Linux", "Postman", "VSCode", "CI/CD", "Docker", "APIDog"],
     }
@@ -60,8 +60,10 @@ class OmarRodrigues:
   <a href="https://github.com/omariscode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://wa.me/244921102389" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
