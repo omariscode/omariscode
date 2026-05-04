@@ -96,8 +96,8 @@ class OmarRodrigues:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omariscode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omariscode&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omariscode&layout=compact"/>
 </p>
 
 <p align="center">
