@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omar%20Rodrigues&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Angola%20🌍&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Building+scalable+APIs+%26+automations;Python+%7C+Go+%7C+Java+%7C+Typescript;Learning+hardcore+mode+%F0%9F%A7%A0;Open+to+remote+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Building+scalable+APIs+%26+automations;Python+%7C+Typescript;Learning+hardcore+mode+%F0%9F%A7%A0;Open+to+remote+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=omariscode&style=flat-square&color=blueviolet&label=Profile+Views" />
