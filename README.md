@@ -25,7 +25,7 @@ class OmarRodrigues:
     education  = "IT Student"
     
     stack = {
-        "primary":   ["Python", "Flask", "Django", "FastAPI", "Typescript", "Express.js", "Nest.js", "Java", "Spring Boot", "Go"],
+        "primary":   ["Python", "Flask", "Django", "FastAPI", "Typescript", "Express.js", "Nest.js"],
         "frontend":  ["HTML", "HTMX", "Tailwind", "JavaScript", "Next.js"],
         "databases": ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis"],
         "tools":     ["Git", "Linux", "Postman", "VSCode", "CI/CD", "Docker", "APIDog"],
@@ -70,7 +70,7 @@ class OmarRodrigues:
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,go,typescript,express,nestjs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,typescript,express,nestjs" />
 </p>
 
 ### Frontend & Styling
